@@ -1,0 +1,7 @@
+{
+    "name": "mimi/error",
+    "description": "Provides error handling machinery",
+    "require": {
+        "php": ">=7.3"
+    }
+}
